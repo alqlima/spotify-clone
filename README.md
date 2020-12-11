@@ -13,10 +13,14 @@
 
  Repository created to build the Spotify website using [TaiwindCSS](https://tailwindcss.com).
  
+ > This project went from Tailwind CSS [course](https://www.udemy.com/course/tailwind-css-do-basico-ao-avancado-com-projetos/?src=sac&kw=tail) from basic to advanced + Projects
+  
+ > Instructor: [Matheus Battisti](https://www.udemy.com/user/matheus-battisti/)
+ 
   ## Status do projeto
  
  <h4 align="center">
-   🚧 Spotify clone 🚀 Comcluido! 🚧
+   🚧 Spotify clone 🚀 Concluido! 🚧
  </h4>
 
 ## Author
