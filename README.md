@@ -16,7 +16,7 @@
   ## Status do projeto
  
  <h4 align="center">
-   🚧 Spotify clone 🚀 Em construção... 🚧
+   🚧 Spotify clone 🚀 Comcluido! 🚧
  </h4>
 
 ## Author
